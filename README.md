@@ -5,3 +5,5 @@ academic papers as well as study material in relation to upcoming exams and fina
 
 this will allow students to interact from all institutions and create a better student network without isolation
 by institution. students at all levels will be able to use this platform.
+
+to be developed in python and Django
